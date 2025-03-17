@@ -17,3 +17,4 @@ Data is publicly available here:
 
 Choudhary, V. (2021, May 1). Customer segmentation tutorial in Python [Kaggle dataset]. Kaggle. https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?resource=downloadLinks to an external site.. Retrieved January 23, 2025.
 <hr>
+(https://github.com/user-attachments/assets/793ce2cc-5043-4254-a50b-4d6f360f7f96)
